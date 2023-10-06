@@ -1,0 +1,267 @@
+/* (No Comment) */
+"app.cancel" = "Cancelar";
+
+/* (No Comment) */
+"app.connection" = "No hay conexión a Internet";
+
+/* (No Comment) */
+"app.connectionTryAgain" = "No hay conexión a Internet, intenta de nuevo más tarde";
+
+/* (No Comment) */
+"app.delete" = "¿Realmente quieres borrar todo el historial?";
+
+/* (No Comment) */
+"app.done" = "Listo";
+
+/* (No Comment) */
+"app.failedConvert" = "Error al convertir los datos en imagen";
+
+/* (No Comment) */
+"app.failedLoad" = "Error al cargar la imagen";
+
+/* (No Comment) */
+"app.imageAccess" = "Lo sentimos, no has concedido acceso a la cámara. Permite el acceso en la configuración.";
+
+/* (No Comment) */
+"app.imageSeach" = "Búsqueda de imágenes";
+
+/* (No Comment) */
+"app.no" = "No";
+
+/* (No Comment) */
+"app.ok" = "Ok";
+
+/* (No Comment) */
+"app.pasteboardDoesContainImage" = "El tablero no contiene una imagen";
+
+/* (No Comment) */
+"app.pasteboardDoesContainUrl" = "El tablero no contiene una URL";
+
+/* (No Comment) */
+"app.rateUsInfo" = "¿Te gusta esta app?";
+
+/* (No Comment) */
+"app.save" = "Guardar";
+
+/* (No Comment) */
+"app.search" = "Buscar";
+
+/* (No Comment) */
+"app.searchResults" = "Resultados de la búsqueda";
+
+/* (No Comment) */
+"app.searchStoryEmpty" = "Lo sentimos, pero tu historia aún está vacía.";
+
+/* (No Comment) */
+"app.sorry" = "Lo sentimos";
+
+/* (No Comment) */
+"app.yes" = "Sí";
+
+/* (No Comment) */
+"history.byImages" = "Por Imágenes";
+
+/* (No Comment) */
+"history.byWord" = "Por palabras";
+
+/* (No Comment) */
+"history.searchHistory" = "Buscar historia";
+
+/* (No Comment) */
+"main.clipboard" = "Portapapeles";
+
+/* (No Comment) */
+"main.clipboardDescription" = "Pegar imagen y buscar";
+
+/* (No Comment) */
+"main.faceFinder" = "Buscador de rostros";
+
+/* (No Comment) */
+"main.faceFinderDescription" = "Buscar rostros similares";
+
+/* (No Comment) */
+"main.gallery" = "Galería";
+
+/* (No Comment) */
+"main.galleryDescription" = "Buscar desde la galería";
+
+/* (No Comment) */
+"main.photos" = "Fotos";
+
+/* (No Comment) */
+"main.photosDescription" = "Buscar desde las fotos";
+
+/* (No Comment) */
+"main.selectImageSource" = "Seleccionar la fuente de la imagen";
+
+/* (No Comment) */
+"main.URL" = "URL";
+
+/* (No Comment) */
+"main.URLDescription" = "Pegar la URL de la imagen y buscar";
+
+/* (No Comment) */
+"main.useCamera" = "Usar la cámara";
+
+/* (No Comment) */
+"main.useLibrary" = "Usar la biblioteca";
+
+/* (No Comment) */
+"onboadring.continueText" = "Continuar";
+
+/* (No Comment) */
+"onboarding.continueText" = "Continuar";
+
+/* Localizable.strings
+  ReverseImageSearch
+
+  Created by Владислав Пуцыкович on 31.05.23. */
+"onboarding.mainTitle1" = "Búsqueda fácil y rápida\npor foto";
+
+/* (No Comment) */
+"onboarding.mainTitle2" = "Búsqueda inversa por combinación";
+
+/* (No Comment) */
+"onboarding.secondTitle1" = "Encuentra toda la información del producto o rostros similares con un solo clic";
+
+/* (No Comment) */
+"onboarding.secondTitle2" = "Google, Yandex, Sogou, Bing, Baidu y Tineye en un solo lugar";
+
+/* (No Comment) */
+"settings.basic" = "BÁSICO";
+
+/* (No Comment) */
+"settings.default" = "Predeterminado";
+
+/* (No Comment) */
+"settings.defaultSearch" = "Búsqueda predeterminada";
+
+/* (No Comment) */
+"settings.dontShrink" = "No reducir";
+
+/* (No Comment) */
+"settings.high" = "Alto";
+
+/* (No Comment) */
+"settings.imageEditor" = "Editor de imagen";
+
+/* (No Comment) */
+"settings.imageQuality" = "Calidad de la imagen";
+
+/* (No Comment) */
+"settings.imageShrinkSize" = "Tamaño de reducción de la imagen";
+
+/* (No Comment) */
+"settings.large" = "Grande: %@";
+
+/* (No Comment) */
+"settings.low" = "Bajo";
+
+/* (No Comment) */
+"settings.medium" = "Media";
+
+/* (No Comment) */
+"settings.mediumShrink" = "Medio: %@";
+
+/* (No Comment) */
+"settings.notSet" = "No establecido";
+
+/* (No Comment) */
+"settings.other" = "OTRO";
+
+/* (No Comment) */
+"settings.privacy" = "Política de privacidad";
+
+/* (No Comment) */
+"settings.rateUs" = "Califícanos";
+
+/* (No Comment) */
+"settings.settings" = "Ajustes";
+
+/* (No Comment) */
+"settings.share" = "Compartir aplicación";
+
+/* (No Comment) */
+"settings.small" = "Pequeño: %@";
+
+/* (No Comment) */
+"settings.support" = "Soporte";
+
+/* (No Comment) */
+"settings.terms" = "Condiciones de uso";
+
+/* (No Comment) */
+"settings.tiny" = "Diminuto: %@";
+
+/* (No Comment) */
+"subsciption.getPremium" = "Obtén la versión Premium";
+
+/* (No Comment) */
+"subscription.bestPrice" = "Mejor precio";
+
+/* (No Comment) */
+"subscription.days" = "%u días";
+
+/* (No Comment) */
+"subscription.feature.imageSearch" = "Búsqueda ilimitada de imágenes";
+
+/* (No Comment) */
+"subscription.feature.noAds" = "Sin anuncios";
+
+/* (No Comment) */
+"subscription.feature.searchEngines" = "Varios motores de búsqueda";
+
+/* (No Comment) */
+"subscription.feature.searchHistory" = "Historial de búsqueda completo";
+
+/* (No Comment) */
+"subscription.freeTrial" = "%@ \nde prueba gratuita";
+
+/* (No Comment) */
+"subscription.freeTrialReview" = "%@ \nde prueba gratuita, después";
+
+/* (No Comment) */
+"subscription.month" = "Mes";
+
+/* (No Comment) */
+"subscription.months" = "%u meses";
+
+/* (No Comment) */
+"subscription.nothingRestore" = "No hay nada por restaurar";
+
+/* (No Comment) */
+"subscription.optimal" = "Óptimo";
+
+/* (No Comment) */
+"subscription.planRenews" = "El plan se renueva automáticamente. Cancela en cualquier momento.";
+
+/* (No Comment) */
+"subscription.popular" = "Popular";
+
+/* (No Comment) */
+"subscription.pro" = "Pro";
+
+/* (No Comment) */
+"subscription.restore" = "Restaurar";
+
+/* (No Comment) */
+"subscription.subscribe" = "Suscribirse";
+
+/* (No Comment) */
+"subscription.successRestore" = "Suscripción restaurada";
+
+/* (No Comment) */
+"subscription.unlimited" = "Acceso ilimitado\na todas las funciones";
+
+/* (No Comment) */
+"subscription.week" = "Semana";
+
+/* (No Comment) */
+"subscription.weeks" = "%u semanas";
+
+/* (No Comment) */
+"subscription.year" = "Año";
+
+/* (No Comment) */
+"subscription.years" = "%u años";
+

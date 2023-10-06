@@ -1,0 +1,267 @@
+/* (No Comment) */
+"app.cancel" = "Отмена";
+
+/* (No Comment) */
+"app.connection" = "Нет соединения с интернетом";
+
+/* (No Comment) */
+"app.connectionTryAgain" = "Нет соединения с Интернетом, повторите попытку позже";
+
+/* (No Comment) */
+"app.delete" = "Вы уверены, что хотите удалить всю историю?";
+
+/* (No Comment) */
+"app.done" = "Готово";
+
+/* (No Comment) */
+"app.failedConvert" = "Не удалось преобразовать данные в изображение";
+
+/* (No Comment) */
+"app.failedLoad" = "Не удалось загрузить изображение";
+
+/* (No Comment) */
+"app.imageAccess" = "Извините, вы не предоставили доступ к камере. Предоставьте доступ в настройках.";
+
+/* (No Comment) */
+"app.imageSeach" = "Поиск изображений";
+
+/* (No Comment) */
+"app.no" = "Нет";
+
+/* (No Comment) */
+"app.ok" = "ОК";
+
+/* (No Comment) */
+"app.pasteboardDoesContainImage" = "Вставка не содержит изображения";
+
+/* (No Comment) */
+"app.pasteboardDoesContainUrl" = "Вставка не содержит URL";
+
+/* (No Comment) */
+"app.rateUsInfo" = "Вам нравится это приложение?";
+
+/* (No Comment) */
+"app.save" = "Сохранить";
+
+/* (No Comment) */
+"app.search" = "Поиск";
+
+/* (No Comment) */
+"app.searchResults" = "Результаты поиска";
+
+/* (No Comment) */
+"app.searchStoryEmpty" = "Извините, но ваша история по-прежнему пуста";
+
+/* (No Comment) */
+"app.sorry" = "Извините";
+
+/* (No Comment) */
+"app.yes" = "Да";
+
+/* (No Comment) */
+"history.byImages" = "По изображениям";
+
+/* (No Comment) */
+"history.byWord" = "По словам";
+
+/* (No Comment) */
+"history.searchHistory" = "История поиска";
+
+/* (No Comment) */
+"main.clipboard" = "Буфер обмена";
+
+/* (No Comment) */
+"main.clipboardDescription" = "Вставить изображение и найти";
+
+/* (No Comment) */
+"main.faceFinder" = "Поиск лиц";
+
+/* (No Comment) */
+"main.faceFinderDescription" = "Поиск похожих лиц";
+
+/* (No Comment) */
+"main.gallery" = "Галерея";
+
+/* (No Comment) */
+"main.galleryDescription" = "Поиск в Галерее";
+
+/* (No Comment) */
+"main.photos" = "Фото";
+
+/* (No Comment) */
+"main.photosDescription" = "Поиск в Фото";
+
+/* (No Comment) */
+"main.selectImageSource" = "Выберите источник изображения";
+
+/* (No Comment) */
+"main.URL" = "URL";
+
+/* (No Comment) */
+"main.URLDescription" = "Вставьте URL-адрес изображения и выполните поиск";
+
+/* (No Comment) */
+"main.useCamera" = "Использовать камеру";
+
+/* (No Comment) */
+"main.useLibrary" = "Использовать библиотеку";
+
+/* (No Comment) */
+"onboadring.continueText" = "Продолжить";
+
+/* (No Comment) */
+"onboarding.continueText" = "Продолжить";
+
+/* Localizable.strings
+  ReverseImageSearch
+
+  Created by Владислав Пуцыкович on 31.05.23. */
+"onboarding.mainTitle1" = "Легкий и быстрый\nПоиск по фото";
+
+/* (No Comment) */
+"onboarding.mainTitle2" = "Комбинированный обратный поиск";
+
+/* (No Comment) */
+"onboarding.secondTitle1" = "Находите всю информацию о продукте или похожие лица в один клик";
+
+/* (No Comment) */
+"onboarding.secondTitle2" = "Google, Яндекс, Sogou, Bing, Baidu, Tineye — в одном месте";
+
+/* (No Comment) */
+"settings.basic" = "БАЗОВЫЙ";
+
+/* (No Comment) */
+"settings.default" = "По умолчанию";
+
+/* (No Comment) */
+"settings.defaultSearch" = "Поиск по умолчанию";
+
+/* (No Comment) */
+"settings.dontShrink" = "Не сжимать";
+
+/* (No Comment) */
+"settings.high" = "Высокое";
+
+/* (No Comment) */
+"settings.imageEditor" = "Редактор изображений";
+
+/* (No Comment) */
+"settings.imageQuality" = "Качество изображений";
+
+/* (No Comment) */
+"settings.imageShrinkSize" = "Размер сжатого изображения";
+
+/* (No Comment) */
+"settings.large" = "Большой: %@";
+
+/* (No Comment) */
+"settings.low" = "Низкое";
+
+/* (No Comment) */
+"settings.medium" = "Средняя";
+
+/* (No Comment) */
+"settings.mediumShrink" = "Среднее: %@";
+
+/* (No Comment) */
+"settings.notSet" = "Не задано";
+
+/* (No Comment) */
+"settings.other" = "ИНОЕ";
+
+/* (No Comment) */
+"settings.privacy" = "Политика конфиденциальности";
+
+/* (No Comment) */
+"settings.rateUs" = "Оцените нас";
+
+/* (No Comment) */
+"settings.settings" = "Настройки";
+
+/* (No Comment) */
+"settings.share" = "Поделиться приложением";
+
+/* (No Comment) */
+"settings.small" = "Маленькое: %@";
+
+/* (No Comment) */
+"settings.support" = "Поддержка";
+
+/* (No Comment) */
+"settings.terms" = "Условия использования";
+
+/* (No Comment) */
+"settings.tiny" = "Крошечное: %@";
+
+/* (No Comment) */
+"subsciption.getPremium" = "Получите Премиум-версию";
+
+/* (No Comment) */
+"subscription.bestPrice" = "Лучшая цена";
+
+/* (No Comment) */
+"subscription.days" = "%u дня (дней)";
+
+/* (No Comment) */
+"subscription.feature.imageSearch" = "Неограниченный поиск изображений";
+
+/* (No Comment) */
+"subscription.feature.noAds" = "Без рекламы";
+
+/* (No Comment) */
+"subscription.feature.searchEngines" = "Несколько поисковых систем";
+
+/* (No Comment) */
+"subscription.feature.searchHistory" = "Полная история поиска";
+
+/* (No Comment) */
+"subscription.freeTrial" = "%@ \nБесплатно";
+
+/* (No Comment) */
+"subscription.freeTrialReview" = "%@ \nБесплатно, затем";
+
+/* (No Comment) */
+"subscription.month" = "Месяц";
+
+/* (No Comment) */
+"subscription.months" = "%u месяца(-ев)";
+
+/* (No Comment) */
+"subscription.nothingRestore" = "Нечего восстанавливать";
+
+/* (No Comment) */
+"subscription.optimal" = "Оптимальный";
+
+/* (No Comment) */
+"subscription.planRenews" = "План автоматически продлевается. Отменяйте в любое время.";
+
+/* (No Comment) */
+"subscription.popular" = "Популярный";
+
+/* (No Comment) */
+"subscription.pro" = "Pro";
+
+/* (No Comment) */
+"subscription.restore" = "Восстановить";
+
+/* (No Comment) */
+"subscription.subscribe" = "Подписаться";
+
+/* (No Comment) */
+"subscription.successRestore" = "Подписка восстановлена";
+
+/* (No Comment) */
+"subscription.unlimited" = "Неограниченный доступ\nко всем функциям";
+
+/* (No Comment) */
+"subscription.week" = "Неделя";
+
+/* (No Comment) */
+"subscription.weeks" = "%u недели(-ь)";
+
+/* (No Comment) */
+"subscription.year" = "Год";
+
+/* (No Comment) */
+"subscription.years" = "%u года (лет)";
+

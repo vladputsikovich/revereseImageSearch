@@ -1,0 +1,30 @@
+input_dir: ReverseImageSearch/Resource/
+output_dir: ReverseImageSearch/Generated/
+
+## IMAGES
+## COLORS
+
+xcassets:
+  inputs:
+    - Assets.xcassets
+    - Colors.xcassets
+  outputs:
+    templateName: swift5
+    output: XCAssets+Generated.swift
+
+## STRINGS
+
+strings:
+  inputs:
+    - en.lproj/Localizable.strings
+  outputs:
+    templateName: structured-swift5
+    output: Strings+Generated.swift
+
+## FONTS
+
+fonts:
+  inputs: Fonts
+  outputs:
+    templateName: swift5
+    output: Fonts+Generated.swift

@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  ReverseImageSearch
+
+  Created by Владислав Пуцыкович on 31.05.23.
+  
+*/
+
+onboarding.mainTitle1 = "Easy and Fast \nSearch by Photo";
+onboarding.secondTitle1 = "Find all product information or similar faces in one click";
+onboarding.mainTitle2 = "Combination \nReverse Search";
+onboarding.secondTitle2 = "Google, Yandex, Sogou, Bing, Baidu, Tineye - in one place";
+onboarding.continueText = "Continue";
+
+
+subscription.unlimited = "Unlimited Access \nTo All Features";
+subsciption.getPremium = "Get Premium";
+
+subscription.pro = "Pro";
+subscription.freeTrial = "%@ \nFree Trial";
+subscription.freeTrialReview = "%@ \nFree Trial, then";
+subscription.subscribe = "Subscribe";
+subscription.planRenews = "Plan automatically renews. Cancel anytime.";
+
+subscription.successRestore = "Subscription Restored";
+
+subscription.feature.noAds = "No Ads";
+subscription.feature.searchHistory = "Full Search History";
+subscription.feature.searchEngines = "Multiple Search Engines";
+subscription.feature.imageSearch = "Unlimited Image Search";
+
+main.photos = "Photos";
+main.gallery = "Gallery";
+main.faceFinder = "Face Finder";
+main.clipboard = "Clipboard";
+main.URL = "URL";
+
+main.photosDescription = "Search From Photos";
+main.galleryDescription = "Search From Gallery";
+main.faceFinderDescription = "Search Similar Faces";
+main.clipboardDescription = "Paste Image & Search";
+main.URLDescription = "Paste Image URL & Search";
+main.selectImageSource = "Select Image Source";
+main.useCamera = "Use Camera";
+main.useLibrary = "Use Library";
+
+history.byImages = "By Images";
+history.byWord = "By Words";
+history.searchHistory = "Search History";
+
+settings.settings = "Settings";
+
+
+app.imageSeach = "Image Search";
+app.searchResults = "Search Results";
+app.search = "Search";
+app.searchStoryEmpty = "Sorry, but your story is still empty";
+
+
+settings.defaultSearch = "Default Search";
+settings.imageShrinkSize = "Image Shrink Size";
+settings.imageQuality = "Image Quality";
+settings.imageEditor = "Image Editor";
+
+settings.basic = "BASIC";
+settings.other = "OTHER";
+
+settings.defaultSearch = "Default Search";
+settings.notSet = "Not Set";
+
+settings.dontShrink = "Don’t Shrink";
+settings.tiny = "Tiny: %@";
+settings.small = "Small: %@";
+settings.mediumShrink = "Medium: %@";
+settings.large = "Large: %@";
+
+settings.default = "Default";
+settings.high = "High";
+settings.medium = "Medium";
+settings.low = "Low";
+
+app.failedConvert = "Failed to convert data to image";
+app.failedLoad = "Failed to load the image";
+
+app.save = "Save";
+
+app.sorry = "Sorry";
+app.cancel = "Cancel";
+app.done = "Done";
+app.ok = "Ok";
+app.delete = "Do you really want to delete all history?";
+app.connection = "No Internet Connection";
+app.connectionTryAgain = "No internet connection, try again later please";
+app.imageAccess = "Sorry, you have not granted access to the camera. Allow access in the settings.";
+app.yes = "Yes";
+app.no = "No";
+app.rateUsInfo = "Do you like this app?";
+subscription.nothingRestore = "Nothing to Restore";
+subscription.popular = "Popular";
+subscription.optimal = "Optimal";
+subscription.bestPrice = "Best Price";
+subscription.week = "Week";
+subscription.month = "Month";
+subscription.year = "Year";
+subscription.restore = "Restore";
+onboadring.continueText = "Continue";
+settings.settings = "Settings";
+settings.rateUs = "Rate Us";
+settings.support = "Support";
+settings.share = "Share App";
+settings.privacy = "Privacy Policy";
+settings.terms = "Terms of Use";
+
+subscription.days = "%u days";
+subscription.weeks = "%u weeks";
+subscription.months = "%u months";
+subscription.years = "%u years";
+
+app.pasteboardDoesContainImage = "Pasteboard does not contain a image";
+app.pasteboardDoesContainUrl = "Pasteboard does not contain a URL";

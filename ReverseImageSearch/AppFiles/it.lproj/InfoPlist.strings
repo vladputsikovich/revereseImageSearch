@@ -1,0 +1,12 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Ricerca inversa delle immagini";
+
+/* Bundle name */
+"CFBundleName" = "RicercaInversaDelleImmagini";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Consenti l'accesso alla fotocamera";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "Questo identificatore sarà utilizzato per fornire annunci personalizzati";
+

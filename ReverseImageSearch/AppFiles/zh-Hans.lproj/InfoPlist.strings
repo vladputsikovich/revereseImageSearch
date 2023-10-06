@@ -1,0 +1,12 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "反向图像搜索";
+
+/* Bundle name */
+"CFBundleName" = "反向图像搜索";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "请允许访问相机";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "此标识符将用于向您投放个性化广告";
+

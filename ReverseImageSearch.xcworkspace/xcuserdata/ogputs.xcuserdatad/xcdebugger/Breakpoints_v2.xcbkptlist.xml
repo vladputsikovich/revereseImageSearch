@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB6FF24D-9E42-4E2A-877C-5232A3DCDC19"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1689068C-BC40-4F38-9702-C3916F274B42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseImageSearch/UI/Services/Subscription/InAppService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "restorePurchases(onInAppDisappear:onSubscription:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1689068C-BC40-4F38-9702-C3916F274B42 - 6349d360c3270b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;ReverseImageSearch.InAppError&gt;) -&gt; () in closure #1 (SwiftyStoreKit.RestoreResults) -&gt; () in ReverseImageSearch.InAppService.restorePurchases(onInAppDisappear: Swift.Optional&lt;() -&gt; ()&gt;, onSubscription: Swift.Optional&lt;() -&gt; ()&gt;, onError: Swift.Optional&lt;(Swift.Optional&lt;ReverseImageSearch.InAppError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ReverseImageSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ogputs/reverse-image-search/ReverseImageSearch/UI/Services/Subscription/InAppService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "1689068C-BC40-4F38-9702-C3916F274B42 - 6349d360c3270b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;ReverseImageSearch.InAppError&gt;) -&gt; () in closure #1 (SwiftyStoreKit.RestoreResults) -&gt; () in ReverseImageSearch.InAppService.restorePurchases(onInAppDisappear: Swift.Optional&lt;() -&gt; ()&gt;, onSubscription: Swift.Optional&lt;() -&gt; ()&gt;, onError: Swift.Optional&lt;(Swift.Optional&lt;ReverseImageSearch.InAppError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ReverseImageSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ogputs/reverse-image-search/ReverseImageSearch/UI/Services/Subscription/InAppService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8CADB57-D925-41AA-9D7E-D1A6EC935772"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseImageSearch/UI/Flows/Subscription/Coordinator/SubscriptionCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "openSubscriptionController(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8CADB57-D925-41AA-9D7E-D1A6EC935772 - cd7c25e396387b13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ReverseImageSearch.SubscriptionCoordinator.openSubscriptionController(with: Swift.String) -&gt; ()"
+                  moduleName = "ReverseImageSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ogputs/reverse-image-search/ReverseImageSearch/UI/Flows/Subscription/Coordinator/SubscriptionCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "A8CADB57-D925-41AA-9D7E-D1A6EC935772 - cd7c25e396387b13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ReverseImageSearch.SubscriptionCoordinator.openSubscriptionController(with: Swift.String) -&gt; ()"
+                  moduleName = "ReverseImageSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ogputs/reverse-image-search/ReverseImageSearch/UI/Flows/Subscription/Coordinator/SubscriptionCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

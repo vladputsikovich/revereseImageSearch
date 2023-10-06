@@ -1,0 +1,267 @@
+/* (No Comment) */
+"app.cancel" = "Cancelar";
+
+/* (No Comment) */
+"app.connection" = "Sem Conexão à Internet";
+
+/* (No Comment) */
+"app.connectionTryAgain" = "Sem conexão à Internet, tente mais tarde";
+
+/* (No Comment) */
+"app.delete" = "Tem certeza de que deseja excluir todo o histórico?";
+
+/* (No Comment) */
+"app.done" = "Pronto";
+
+/* (No Comment) */
+"app.failedConvert" = "Falha ao converter dados em imagem";
+
+/* (No Comment) */
+"app.failedLoad" = "Falha ao carregar a imagem";
+
+/* (No Comment) */
+"app.imageAccess" = "Você não permitiu acesso à câmera. Permita o acesso nos ajustes.";
+
+/* (No Comment) */
+"app.imageSeach" = "Pesquisa Por Imagem";
+
+/* (No Comment) */
+"app.no" = "Não";
+
+/* (No Comment) */
+"app.ok" = "Ok";
+
+/* (No Comment) */
+"app.pasteboardDoesContainImage" = "Área de transferência sem imagem";
+
+/* (No Comment) */
+"app.pasteboardDoesContainUrl" = "Área de transferência sem um URL";
+
+/* (No Comment) */
+"app.rateUsInfo" = "Curtiu o app?";
+
+/* (No Comment) */
+"app.save" = "Salvar";
+
+/* (No Comment) */
+"app.search" = "Pesquisar";
+
+/* (No Comment) */
+"app.searchResults" = "Resultados da Pesquisa";
+
+/* (No Comment) */
+"app.searchStoryEmpty" = "O seu histórico está vazio";
+
+/* (No Comment) */
+"app.sorry" = "Desculpe";
+
+/* (No Comment) */
+"app.yes" = "Sim";
+
+/* (No Comment) */
+"history.byImages" = "Por Imagens";
+
+/* (No Comment) */
+"history.byWord" = "Por Palavras";
+
+/* (No Comment) */
+"history.searchHistory" = "Histórico de Pesquisa";
+
+/* (No Comment) */
+"main.clipboard" = "Área de Transferência";
+
+/* (No Comment) */
+"main.clipboardDescription" = "Colar Imagem e Pesquisar";
+
+/* (No Comment) */
+"main.faceFinder" = "Buscador de Rostos";
+
+/* (No Comment) */
+"main.faceFinderDescription" = "Encontre Rostos Similares";
+
+/* (No Comment) */
+"main.gallery" = "Galeria";
+
+/* (No Comment) */
+"main.galleryDescription" = "Pesquisar na Galeria";
+
+/* (No Comment) */
+"main.photos" = "Fotos";
+
+/* (No Comment) */
+"main.photosDescription" = "Pesquisar nas Fotos";
+
+/* (No Comment) */
+"main.selectImageSource" = "Selecionar Fonte da Imagem";
+
+/* (No Comment) */
+"main.URL" = "URL";
+
+/* (No Comment) */
+"main.URLDescription" = "Colar URL da Imagem e Pesquisar";
+
+/* (No Comment) */
+"main.useCamera" = "Usar Câmera";
+
+/* (No Comment) */
+"main.useLibrary" = "Usa Biblioteca";
+
+/* (No Comment) */
+"onboadring.continueText" = "Continuar";
+
+/* (No Comment) */
+"onboarding.continueText" = "Continuar";
+
+/* Localizable.strings
+  ReverseImageSearch
+
+  Created by Владислав Пуцыкович on 31.05.23. */
+"onboarding.mainTitle1" = "Pesquisa por Foto\nFácil e Rápida";
+
+/* (No Comment) */
+"onboarding.mainTitle2" = "Pesquisa Inversa\nCom Combinação\n";
+
+/* (No Comment) */
+"onboarding.secondTitle1" = "Encontre todas as informações do produto ou rostos similares com um clique";
+
+/* (No Comment) */
+"onboarding.secondTitle2" = "Google, Yandex, Sogou, Bing, Baidu, Tineye - em um lugar";
+
+/* (No Comment) */
+"settings.basic" = "BÁSICO";
+
+/* (No Comment) */
+"settings.default" = "Padrão";
+
+/* (No Comment) */
+"settings.defaultSearch" = "Pesquisa Padrão";
+
+/* (No Comment) */
+"settings.dontShrink" = "Não Encolher";
+
+/* (No Comment) */
+"settings.high" = "Alta";
+
+/* (No Comment) */
+"settings.imageEditor" = "Editor de Imagem";
+
+/* (No Comment) */
+"settings.imageQuality" = "Qualidade da Imagem";
+
+/* (No Comment) */
+"settings.imageShrinkSize" = "Tamanho da Imagem Encolhida";
+
+/* (No Comment) */
+"settings.large" = "Grande: %@";
+
+/* (No Comment) */
+"settings.low" = "Baixa";
+
+/* (No Comment) */
+"settings.medium" = "Média";
+
+/* (No Comment) */
+"settings.mediumShrink" = "Médio: %@";
+
+/* (No Comment) */
+"settings.notSet" = "Não Definido";
+
+/* (No Comment) */
+"settings.other" = "OUTRO";
+
+/* (No Comment) */
+"settings.privacy" = "Política de Privacidade";
+
+/* (No Comment) */
+"settings.rateUs" = "Avalie-nos";
+
+/* (No Comment) */
+"settings.settings" = "Ajustes";
+
+/* (No Comment) */
+"settings.share" = "Compartilhar App";
+
+/* (No Comment) */
+"settings.small" = "Pequeno: %@";
+
+/* (No Comment) */
+"settings.support" = "Suporte";
+
+/* (No Comment) */
+"settings.terms" = "Termos de Uso";
+
+/* (No Comment) */
+"settings.tiny" = "Minúsculo: %@";
+
+/* (No Comment) */
+"subsciption.getPremium" = "Obter o Premium";
+
+/* (No Comment) */
+"subscription.bestPrice" = "Melhor preço";
+
+/* (No Comment) */
+"subscription.days" = "%u dias";
+
+/* (No Comment) */
+"subscription.feature.imageSearch" = "Pesquisas de Imagens Ilimitadas";
+
+/* (No Comment) */
+"subscription.feature.noAds" = "Sem Anúncios";
+
+/* (No Comment) */
+"subscription.feature.searchEngines" = "Múltiplos Motores de Busca";
+
+/* (No Comment) */
+"subscription.feature.searchHistory" = "Histórico de Pesquisa Completo";
+
+/* (No Comment) */
+"subscription.freeTrial" = "%@ \nde Teste Grátis";
+
+/* (No Comment) */
+"subscription.freeTrialReview" = "%@ \nde Teste Grátis e depois";
+
+/* (No Comment) */
+"subscription.month" = "Mês";
+
+/* (No Comment) */
+"subscription.months" = "%u meses";
+
+/* (No Comment) */
+"subscription.nothingRestore" = "Nada a Restaurar";
+
+/* (No Comment) */
+"subscription.optimal" = "Ideal";
+
+/* (No Comment) */
+"subscription.planRenews" = "O plano se renova automaticamente. Cancele quando quiser.";
+
+/* (No Comment) */
+"subscription.popular" = "Popular";
+
+/* (No Comment) */
+"subscription.pro" = "Pro";
+
+/* (No Comment) */
+"subscription.restore" = "Restaurar";
+
+/* (No Comment) */
+"subscription.subscribe" = "Assinar";
+
+/* (No Comment) */
+"subscription.successRestore" = "Assinatura Restaurada";
+
+/* (No Comment) */
+"subscription.unlimited" = "Acesso Ilimitado\nTodos os Recursos";
+
+/* (No Comment) */
+"subscription.week" = "Semana";
+
+/* (No Comment) */
+"subscription.weeks" = "%u semanas";
+
+/* (No Comment) */
+"subscription.year" = "Ano";
+
+/* (No Comment) */
+"subscription.years" = "%u anos";
+

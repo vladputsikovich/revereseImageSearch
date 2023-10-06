@@ -1,0 +1,267 @@
+/* (No Comment) */
+"app.cancel" = "取消";
+
+/* (No Comment) */
+"app.connection" = "无网络连接";
+
+/* (No Comment) */
+"app.connectionTryAgain" = "无网络连接，请稍后再试";
+
+/* (No Comment) */
+"app.delete" = "您真要删除所有历史记录吗?";
+
+/* (No Comment) */
+"app.done" = "完成";
+
+/* (No Comment) */
+"app.failedConvert" = "将数据转换为图像失败";
+
+/* (No Comment) */
+"app.failedLoad" = "加载图像失败";
+
+/* (No Comment) */
+"app.imageAccess" = "抱歉，你没有相机访问权限。请在设置中允许访问。";
+
+/* (No Comment) */
+"app.imageSeach" = "搜索图像";
+
+/* (No Comment) */
+"app.no" = "否";
+
+/* (No Comment) */
+"app.ok" = "好";
+
+/* (No Comment) */
+"app.pasteboardDoesContainImage" = "粘贴板不包含图像";
+
+/* (No Comment) */
+"app.pasteboardDoesContainUrl" = "粘贴板不包含链接";
+
+/* (No Comment) */
+"app.rateUsInfo" = "你喜欢此应用吗？";
+
+/* (No Comment) */
+"app.save" = "保存";
+
+/* (No Comment) */
+"app.search" = "搜索";
+
+/* (No Comment) */
+"app.searchResults" = "搜索结果";
+
+/* (No Comment) */
+"app.searchStoryEmpty" = "抱歉，但你的快拍仍为空";
+
+/* (No Comment) */
+"app.sorry" = "抱歉";
+
+/* (No Comment) */
+"app.yes" = "是";
+
+/* (No Comment) */
+"history.byImages" = "按图像";
+
+/* (No Comment) */
+"history.byWord" = "按字词";
+
+/* (No Comment) */
+"history.searchHistory" = "搜索历史";
+
+/* (No Comment) */
+"main.clipboard" = "剪贴板";
+
+/* (No Comment) */
+"main.clipboardDescription" = "粘贴图像和搜索";
+
+/* (No Comment) */
+"main.faceFinder" = "人脸搜索器";
+
+/* (No Comment) */
+"main.faceFinderDescription" = "搜索相似面孔";
+
+/* (No Comment) */
+"main.gallery" = "图库";
+
+/* (No Comment) */
+"main.galleryDescription" = "从图库搜索";
+
+/* (No Comment) */
+"main.photos" = "照片";
+
+/* (No Comment) */
+"main.photosDescription" = "从照片中搜索";
+
+/* (No Comment) */
+"main.selectImageSource" = "选择图像来源";
+
+/* (No Comment) */
+"main.URL" = "链接";
+
+/* (No Comment) */
+"main.URLDescription" = "粘贴图像链接和搜索";
+
+/* (No Comment) */
+"main.useCamera" = "使用相机";
+
+/* (No Comment) */
+"main.useLibrary" = "使用资料库";
+
+/* (No Comment) */
+"onboadring.continueText" = "继续";
+
+/* (No Comment) */
+"onboarding.continueText" = "继续";
+
+/* Localizable.strings
+  ReverseImageSearch
+
+  Created by Владислав Пуцыкович on 31.05.23. */
+"onboarding.mainTitle1" = "简单快速\n按照片搜索";
+
+/* (No Comment) */
+"onboarding.mainTitle2" = "结合\n反向搜索";
+
+/* (No Comment) */
+"onboarding.secondTitle1" = "一键搜索所有产品信息或相似面孔";
+
+/* (No Comment) */
+"onboarding.secondTitle2" = "Google、Yandex、Sogou、Bing、Baidu、Tineye -一应俱全";
+
+/* (No Comment) */
+"settings.basic" = "基本";
+
+/* (No Comment) */
+"settings.default" = "默认";
+
+/* (No Comment) */
+"settings.defaultSearch" = "默认搜索";
+
+/* (No Comment) */
+"settings.dontShrink" = "不要收缩";
+
+/* (No Comment) */
+"settings.high" = "高";
+
+/* (No Comment) */
+"settings.imageEditor" = "图像编辑器";
+
+/* (No Comment) */
+"settings.imageQuality" = "图像质量";
+
+/* (No Comment) */
+"settings.imageShrinkSize" = "图像收缩大小";
+
+/* (No Comment) */
+"settings.large" = "大：%@";
+
+/* (No Comment) */
+"settings.low" = "低";
+
+/* (No Comment) */
+"settings.medium" = "中速";
+
+/* (No Comment) */
+"settings.mediumShrink" = "中：%@";
+
+/* (No Comment) */
+"settings.notSet" = "未设置";
+
+/* (No Comment) */
+"settings.other" = "其它";
+
+/* (No Comment) */
+"settings.privacy" = "隐私政策";
+
+/* (No Comment) */
+"settings.rateUs" = "给我们评分";
+
+/* (No Comment) */
+"settings.settings" = "设置";
+
+/* (No Comment) */
+"settings.share" = "分享应用";
+
+/* (No Comment) */
+"settings.small" = "小：%@";
+
+/* (No Comment) */
+"settings.support" = "支持";
+
+/* (No Comment) */
+"settings.terms" = "使用条款";
+
+/* (No Comment) */
+"settings.tiny" = "极小：%@";
+
+/* (No Comment) */
+"subsciption.getPremium" = "获取高级版";
+
+/* (No Comment) */
+"subscription.bestPrice" = "最优惠价格";
+
+/* (No Comment) */
+"subscription.days" = "%u日";
+
+/* (No Comment) */
+"subscription.feature.imageSearch" = "无限制图像搜索";
+
+/* (No Comment) */
+"subscription.feature.noAds" = "无广告";
+
+/* (No Comment) */
+"subscription.feature.searchEngines" = "多个搜索引擎";
+
+/* (No Comment) */
+"subscription.feature.searchHistory" = "完整搜索历史";
+
+/* (No Comment) */
+"subscription.freeTrial" = "%@ \n免费试用";
+
+/* (No Comment) */
+"subscription.freeTrialReview" = "%@ \n免费试用，然后";
+
+/* (No Comment) */
+"subscription.month" = "月";
+
+/* (No Comment) */
+"subscription.months" = "%u个月";
+
+/* (No Comment) */
+"subscription.nothingRestore" = "无内容可还原";
+
+/* (No Comment) */
+"subscription.optimal" = "可选";
+
+/* (No Comment) */
+"subscription.planRenews" = "计划自动更新。随时取消。";
+
+/* (No Comment) */
+"subscription.popular" = "热门";
+
+/* (No Comment) */
+"subscription.pro" = "专业版";
+
+/* (No Comment) */
+"subscription.restore" = "还原";
+
+/* (No Comment) */
+"subscription.subscribe" = "订阅";
+
+/* (No Comment) */
+"subscription.successRestore" = "订阅已恢复";
+
+/* (No Comment) */
+"subscription.unlimited" = "无限制访问\n所有功能";
+
+/* (No Comment) */
+"subscription.week" = "周";
+
+/* (No Comment) */
+"subscription.weeks" = "%u周";
+
+/* (No Comment) */
+"subscription.year" = "年";
+
+/* (No Comment) */
+"subscription.years" = "%u年";
+

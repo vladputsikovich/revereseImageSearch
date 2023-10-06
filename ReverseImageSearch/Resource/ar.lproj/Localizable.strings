@@ -1,0 +1,267 @@
+/* (No Comment) */
+"app.cancel" = "إلغاء";
+
+/* (No Comment) */
+"app.connection" = "لا يوجد اتصال بالإنترنت";
+
+/* (No Comment) */
+"app.connectionTryAgain" = "لا يوجد اتصال بالإنترنت، يُرجى إعادة المحاولة لاحقًا";
+
+/* (No Comment) */
+"app.delete" = "هل ترغب حقًا في حذف الذاكرة بأكملها؟";
+
+/* (No Comment) */
+"app.done" = "تم";
+
+/* (No Comment) */
+"app.failedConvert" = "فشل تحويل البيانات إلى صورة";
+
+/* (No Comment) */
+"app.failedLoad" = "فشل تحميل الصورة";
+
+/* (No Comment) */
+"app.imageAccess" = "معذرة، لم تمنح الإذن بالوصول إلى الكاميرا. يُرجى تمكين ذلك في الإعدادات.";
+
+/* (No Comment) */
+"app.imageSeach" = "البحث عن الصور";
+
+/* (No Comment) */
+"app.no" = "لا";
+
+/* (No Comment) */
+"app.ok" = "موافق";
+
+/* (No Comment) */
+"app.pasteboardDoesContainImage" = "لا توجد أي صور في الحافظة";
+
+/* (No Comment) */
+"app.pasteboardDoesContainUrl" = "لا توجد أي مسارات إنترنت في الحافظة";
+
+/* (No Comment) */
+"app.rateUsInfo" = "هل يعجبك هذا التطبيق؟";
+
+/* (No Comment) */
+"app.save" = "حفظ";
+
+/* (No Comment) */
+"app.search" = "بحث";
+
+/* (No Comment) */
+"app.searchResults" = "نتائج البحث";
+
+/* (No Comment) */
+"app.searchStoryEmpty" = "معذرة، ولكن قصتك ما زالت فارغة";
+
+/* (No Comment) */
+"app.sorry" = "معذرة";
+
+/* (No Comment) */
+"app.yes" = "نعم";
+
+/* (No Comment) */
+"history.byImages" = "بالصور";
+
+/* (No Comment) */
+"history.byWord" = "بالكلمات";
+
+/* (No Comment) */
+"history.searchHistory" = "ذاكرة البحث";
+
+/* (No Comment) */
+"main.clipboard" = "الحافظة";
+
+/* (No Comment) */
+"main.clipboardDescription" = "لصق الصورة وبدء البحث";
+
+/* (No Comment) */
+"main.faceFinder" = "الباحث عن الوجوه";
+
+/* (No Comment) */
+"main.faceFinderDescription" = "البحث عن الوجوه المتشابهة";
+
+/* (No Comment) */
+"main.gallery" = "المعرض";
+
+/* (No Comment) */
+"main.galleryDescription" = "البحث من المعرض";
+
+/* (No Comment) */
+"main.photos" = "الصور";
+
+/* (No Comment) */
+"main.photosDescription" = "البحث من الصور";
+
+/* (No Comment) */
+"main.selectImageSource" = "تحديد مصدر الصورة";
+
+/* (No Comment) */
+"main.URL" = "مسار الإنترنت";
+
+/* (No Comment) */
+"main.URLDescription" = "لصق مسار الإنترنت للصورة وبدء البحث";
+
+/* (No Comment) */
+"main.useCamera" = "استخدام الكاميرا";
+
+/* (No Comment) */
+"main.useLibrary" = "استخدام المكتبة";
+
+/* (No Comment) */
+"onboadring.continueText" = "متابعة";
+
+/* (No Comment) */
+"onboarding.continueText" = "متابعة";
+
+/* Localizable.strings
+  ReverseImageSearch
+
+  Created by Владислав Пуцыкович on 31.05.23. */
+"onboarding.mainTitle1" = "البحث السهل والسريع \nبالصور";
+
+/* (No Comment) */
+"onboarding.mainTitle2" = "البحث العكسي\nالمدمج";
+
+/* (No Comment) */
+"onboarding.secondTitle1" = "البحث عن جميع المعلومات عن المنتجات والوجوه المتشابهة بنقرة واحدة";
+
+/* (No Comment) */
+"onboarding.secondTitle2" = "Google، وYandex، وSogou، وBing، وBaidu، وTineye - جميعها في مكان واحد";
+
+/* (No Comment) */
+"settings.basic" = "أساسي";
+
+/* (No Comment) */
+"settings.default" = "افتراضي";
+
+/* (No Comment) */
+"settings.defaultSearch" = "بحث افتراضي";
+
+/* (No Comment) */
+"settings.dontShrink" = "عدم تقليص الحجم";
+
+/* (No Comment) */
+"settings.high" = "عالي";
+
+/* (No Comment) */
+"settings.imageEditor" = "محرر الصور";
+
+/* (No Comment) */
+"settings.imageQuality" = "جودة الصورة";
+
+/* (No Comment) */
+"settings.imageShrinkSize" = "حجم الصورة المصغرة";
+
+/* (No Comment) */
+"settings.large" = "كبيرة: %@";
+
+/* (No Comment) */
+"settings.low" = "منخفض";
+
+/* (No Comment) */
+"settings.medium" = "متوسطة";
+
+/* (No Comment) */
+"settings.mediumShrink" = "متوسط: %@";
+
+/* (No Comment) */
+"settings.notSet" = "غير محدد";
+
+/* (No Comment) */
+"settings.other" = "أخرى";
+
+/* (No Comment) */
+"settings.privacy" = "سياسة الخصوصية";
+
+/* (No Comment) */
+"settings.rateUs" = "التقييم";
+
+/* (No Comment) */
+"settings.settings" = "الإعدادات";
+
+/* (No Comment) */
+"settings.share" = "مشاركة التطبيق";
+
+/* (No Comment) */
+"settings.small" = "صغير: %@";
+
+/* (No Comment) */
+"settings.support" = "الدعم";
+
+/* (No Comment) */
+"settings.terms" = "شروط الاستخدام";
+
+/* (No Comment) */
+"settings.tiny" = "فائق الصغر: %@";
+
+/* (No Comment) */
+"subsciption.getPremium" = "الحصول على نسخة Premium";
+
+/* (No Comment) */
+"subscription.bestPrice" = "أفضل سعر";
+
+/* (No Comment) */
+"subscription.days" = "%u من الأيام";
+
+/* (No Comment) */
+"subscription.feature.imageSearch" = "بحث غير محدود بالصور";
+
+/* (No Comment) */
+"subscription.feature.noAds" = "من دون إعلانات";
+
+/* (No Comment) */
+"subscription.feature.searchEngines" = "محركات بحث متعددة عن الصور";
+
+/* (No Comment) */
+"subscription.feature.searchHistory" = "ذاكرة بحث كاملة";
+
+/* (No Comment) */
+"subscription.freeTrial" = "التجربة المجانية %@";
+
+/* (No Comment) */
+"subscription.freeTrialReview" = "التجربة المجانية %@،\nوبعد ذلك";
+
+/* (No Comment) */
+"subscription.month" = "الشهر";
+
+/* (No Comment) */
+"subscription.months" = "%u من الأشهر";
+
+/* (No Comment) */
+"subscription.nothingRestore" = "لا يوجد شيء لاستعادته";
+
+/* (No Comment) */
+"subscription.optimal" = "مثالي";
+
+/* (No Comment) */
+"subscription.planRenews" = "يتم تجديد الباقة تلقائيًا. يمكنك الإلغاء في أي وقت.";
+
+/* (No Comment) */
+"subscription.popular" = "شائع";
+
+/* (No Comment) */
+"subscription.pro" = "نسخة Pro";
+
+/* (No Comment) */
+"subscription.restore" = "استعادة";
+
+/* (No Comment) */
+"subscription.subscribe" = "اشتراك";
+
+/* (No Comment) */
+"subscription.successRestore" = "تمت استعادة الاشتراك";
+
+/* (No Comment) */
+"subscription.unlimited" = "وصول غير محدود\nإلى جميع الميزات";
+
+/* (No Comment) */
+"subscription.week" = "الأسبوع";
+
+/* (No Comment) */
+"subscription.weeks" = "%u من الأسابيع";
+
+/* (No Comment) */
+"subscription.year" = "العام";
+
+/* (No Comment) */
+"subscription.years" = "%u من السنوات";
+

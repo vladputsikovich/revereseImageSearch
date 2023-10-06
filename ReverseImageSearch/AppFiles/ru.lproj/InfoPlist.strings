@@ -1,0 +1,12 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Обратный поиск изображений";
+
+/* Bundle name */
+"CFBundleName" = "ОбратныйПоискИзображений";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Предоставьте доступ к камере";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "Этот идентификатор будет использоваться для показа вам персонализированной рекламы.";
+
